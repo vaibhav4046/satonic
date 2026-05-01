@@ -1,0 +1,21 @@
+{
+  "domains": [
+    "linkedin.com",
+    "facebook.com",
+    "instagram.com/p",
+    "tiktok.com/@",
+    "twitter.com",
+    "x.com",
+    "fb.com",
+    "messenger.com",
+    "whatsapp.com",
+    "snapchat.com"
+  ],
+  "reason": "Walled gardens or ToS-restricted content. Use official APIs only or skip entirely.",
+  "notes": {
+    "linkedin.com": "ToS forbids scraping. Apollo and Seamless got removed in 2025.",
+    "facebook.com": "ToS forbids scraping. Use Graph API only.",
+    "instagram.com/p": "Post-level scraping forbidden. Public profile metadata via official Basic Display API only.",
+    "tiktok.com/@": "Profile-level scraping forbidden. Use TikTok for Developers API only."
+  }
+}

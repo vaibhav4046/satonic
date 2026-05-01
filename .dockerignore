@@ -1,0 +1,17 @@
+node_modules
+.next
+.git
+.env
+.env.local
+*.log
+*.db
+*.db-journal
+satonic.db
+drizzle/
+coverage/
+test-results/
+.vscode
+.idea
+README.md
+docs/
+tests/

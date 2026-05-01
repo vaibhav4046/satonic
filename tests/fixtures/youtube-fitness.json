@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": "UC_test_keto1",
+      "snippet": {
+        "title": "Keto Coach Sam",
+        "description": "Daily keto recipes. Business: sam@ketocoach.example | https://ketocoach.example",
+        "country": "US",
+        "customUrl": "@ketocoachsam"
+      },
+      "statistics": { "subscriberCount": "152000", "videoCount": "412" },
+      "brandingSettings": { "channel": { "country": "US" } }
+    },
+    {
+      "id": "UC_test_keto2",
+      "snippet": {
+        "title": "Lean Living",
+        "description": "Fitness + nutrition. Sponsorships: hi@leanliving.example",
+        "country": "GB"
+      },
+      "statistics": { "subscriberCount": "84500", "videoCount": "201" },
+      "brandingSettings": { "channel": { "country": "GB" } }
+    }
+  ]
+}

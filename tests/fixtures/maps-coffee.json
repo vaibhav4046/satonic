@@ -1,0 +1,31 @@
+{
+  "places": [
+    {
+      "id": "ChIJ_test_001",
+      "displayName": { "text": "Bluebird Coffee" },
+      "formattedAddress": "100 Boylston St, Boston, MA 02116, USA",
+      "nationalPhoneNumber": "(617) 555-0142",
+      "internationalPhoneNumber": "+1 617-555-0142",
+      "websiteUri": "https://bluebirdcoffee.example",
+      "primaryType": "cafe",
+      "types": ["cafe", "food", "point_of_interest"],
+      "location": { "latitude": 42.3505, "longitude": -71.0762 },
+      "addressComponents": [
+        { "longText": "Boston", "types": ["locality"] },
+        { "longText": "United States", "types": ["country"] }
+      ]
+    },
+    {
+      "id": "ChIJ_test_002",
+      "displayName": { "text": "Brew & Bite" },
+      "formattedAddress": "55 Newbury St, Boston, MA",
+      "nationalPhoneNumber": "(617) 555-9011",
+      "websiteUri": "https://brewandbite.example",
+      "primaryType": "cafe",
+      "addressComponents": [
+        { "longText": "Boston", "types": ["locality"] },
+        { "longText": "United States", "types": ["country"] }
+      ]
+    }
+  ]
+}

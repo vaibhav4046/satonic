@@ -1,0 +1,37 @@
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# env
+.env
+.env.local
+.env.*.local
+
+# db
+*.db
+*.db-journal
+satonic.db
+drizzle/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# tests
+coverage/
+.vitest/
+playwright-report/
+test-results/
+
+# misc
+*.tsbuildinfo
+next-env.d.ts
